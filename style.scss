@@ -17,6 +17,19 @@ body {
     background-size: cover;
     height: 70vh;
     position: relative;
+    
+  }
+
+  .header-2 {
+    background-image: linear-gradient(
+        to right bottom,
+        rgba(color(primary), 0.5),
+        rgba(color(primary-light), 0.5)
+      ),
+      url("img/apizza.jpg");
+    background-size: cover;
+    height: 70vh;
+    position: relative;
   }
   .header-text-box {
     position: absolute;
@@ -27,11 +40,13 @@ body {
     font-size: 5rem;
     text-transform: uppercase;
   }
+
   .header-primary {
     width: 100vw;
     display: flex;
     flex-direction: column;
     align-items: center;
+
   }
 
   .heading-primary-sub {
