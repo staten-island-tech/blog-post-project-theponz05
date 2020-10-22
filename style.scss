@@ -1,4 +1,4 @@
-@import "_color-variables.scss"
+@import "_color-variables.scss";
 
 html,
 body {
@@ -19,6 +19,8 @@ body {
     background-size: cover;
     height: 70vh;
     position: relative;
+    color: white;
+    
     
   }
 

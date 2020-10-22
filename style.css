@@ -42,7 +42,7 @@ body {
           align-items: center;
 }
 
-.header-primary-primary {
+.text-container {
     width: 66.7vw;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -96,7 +96,7 @@ body {
 
 }
 
-.heading-primary-sub-sub {
+.heading-primary-sub-2 {
   font-size: 3rem;
 }
 
